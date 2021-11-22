@@ -9,12 +9,13 @@ $ dbt run    # Will not work ... set up
 $ vim ~/.dbt/profiles.yml
 $ gcloud auth application-default login  # Set up oauth used here
 $ dbt docs generate
-$ dbt docs serve  # Local host setup
+$ dbt docs serve  # Local host docs
 ```
 * Best to set up configurations in gcloud [GCP configurations setup](https://medium.com/google-cloud/how-to-use-multiple-accounts-with-gcloud-848fdb53a39a)
 * Switch to new configuration [Switching configs](https://stackoverflow.com/questions/35744901/how-to-change-the-active-configuration-profile-in-gcloud)
 * Auth login [Auth login in gcp](https://stackoverflow.com/questions/67608814/how-to-switch-gcp-authentication-account-for-dbt-bigquery-runs)
 * Fillipe holla Setup [dbt-setup](https://hoffa.medium.com/get-started-with-bigquery-and-dbt-the-easy-way-36b9d9735e35)
+* Demo Model setup [springml](https://www.springml.com/blog/getting-started-with-data-build-tool-dbt-for-bigquery/)
 
 ## Testing dbt project: `jaffle_shop`
 
