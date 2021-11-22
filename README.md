@@ -16,6 +16,7 @@ $ dbt docs serve  # Local host docs
 * Auth login [Auth login in gcp](https://stackoverflow.com/questions/67608814/how-to-switch-gcp-authentication-account-for-dbt-bigquery-runs)
 * Fillipe holla Setup [dbt-setup](https://hoffa.medium.com/get-started-with-bigquery-and-dbt-the-easy-way-36b9d9735e35)
 * Demo Model setup [springml](https://www.springml.com/blog/getting-started-with-data-build-tool-dbt-for-bigquery/)
+* Original github [here](https://github.com/sungchun12/dbt_bigquery_example)
 
 ## Testing dbt project: `jaffle_shop`
 
