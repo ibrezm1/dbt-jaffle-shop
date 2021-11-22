@@ -6,7 +6,7 @@ $ pip3 install --upgrade dbt-bigquery
 $ dbt init first_project
 $ cd first_project/
 $ dbt debug --profiles-dir .    # dbt debug if local profiles then setup env variable 
-$ export DBT_PROFILES_DIR=path/to/directory
+$ export DBT_PROFILES_DIR=$(pwd)
 $ dbt run    # Will not work ... set up 
 $ vim ~/.dbt/profiles.yml
 $ gcloud auth application-default login  # Set up oauth used here
