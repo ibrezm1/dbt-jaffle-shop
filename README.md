@@ -20,6 +20,7 @@ $ dbt docs serve  # Local host docs
 * Demo Model setup [springml](https://www.springml.com/blog/getting-started-with-data-build-tool-dbt-for-bigquery/)
 * Original github [here](https://github.com/sungchun12/dbt_bigquery_example)
 * Static page on gcp [GCS](https://cloud.google.com/storage/docs/hosting-static-website#storage-create-bucket-gsutil)
+* dbt same example [here](https://docs.getdbt.com/tutorial/create-a-project-dbt-cli)
 
 ## Testing dbt project: `jaffle_shop`
 
