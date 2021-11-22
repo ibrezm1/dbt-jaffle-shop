@@ -9,6 +9,9 @@ $ dbt run    # Will not work ... set up
 $ vim ~/.dbt/profiles.yml
 $ gcloud auth application-default login  # Set up oauth used here
 ```
+Best to set up configurations in gcloud [GCP configurations setup](https://medium.com/google-cloud/how-to-use-multiple-accounts-with-gcloud-848fdb53a39a)
+Switch to new configuration [Switching configs](https://stackoverflow.com/questions/35744901/how-to-change-the-active-configuration-profile-in-gcloud)
+Auth login [Auth login in gcp](https://stackoverflow.com/questions/67608814/how-to-switch-gcp-authentication-account-for-dbt-bigquery-runs)
 
 ## Testing dbt project: `jaffle_shop`
 
