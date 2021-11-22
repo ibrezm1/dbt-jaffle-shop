@@ -7,6 +7,7 @@ $ dbt init first_project
 $ cd first_project/
 $ dbt run    # Will not work ... set up 
 $ vim ~/.dbt/profiles.yml
+$ gcloud auth application-default login  # Set up oauth used here
 ```
 
 ## Testing dbt project: `jaffle_shop`
