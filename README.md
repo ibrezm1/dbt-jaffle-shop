@@ -1,3 +1,14 @@
+## dbt quick setup on local
+```bash
+$ python3 -m venv dbt-env 
+$ source dbt-env/bin/activate
+$ pip3 install --upgrade dbt-bigquery
+$ dbt init first_project
+$ cd first_project/
+$ dbt run    # Will not work ... set up 
+$ vim ~/.dbt/profiles.yml
+```
+
 ## Testing dbt project: `jaffle_shop`
 
 `jaffle_shop` is a fictional ecommerce store. This dbt project transforms raw data from an app database into a customers and orders model ready for analytics.
