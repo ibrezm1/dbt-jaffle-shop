@@ -22,6 +22,7 @@ $ dbt docs serve  # Local host docs
 * Static page on gcp [GCS](https://cloud.google.com/storage/docs/hosting-static-website#storage-create-bucket-gsutil)
 * dbt same example [here](https://docs.getdbt.com/tutorial/create-a-project-dbt-cli)
 * dbt full usage in project [here](https://engineering.mercari.com/en/blog/entry/20201207-toward-better-data-management-on-bigquery-with-dbt/)
+* dbt sheduled queries update [here](https://blog.redpillanalytics.com/how-dbt-was-used-to-convert-from-google-bigquery-scheduled-queries-8f909be12fcc)
 
 ## Testing dbt project: `jaffle_shop`
 
