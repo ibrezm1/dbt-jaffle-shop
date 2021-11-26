@@ -21,6 +21,7 @@ $ dbt docs serve  # Local host docs
 * Original github [here](https://github.com/sungchun12/dbt_bigquery_example)
 * Static page on gcp [GCS](https://cloud.google.com/storage/docs/hosting-static-website#storage-create-bucket-gsutil)
 * dbt same example [here](https://docs.getdbt.com/tutorial/create-a-project-dbt-cli)
+* dbt full usage in project [here](https://engineering.mercari.com/en/blog/entry/20201207-toward-better-data-management-on-bigquery-with-dbt/)
 
 ## Testing dbt project: `jaffle_shop`
 
